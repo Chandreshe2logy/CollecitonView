@@ -34,7 +34,7 @@ class ViewController: UIViewController {
         colleciotnViewLabel.dataSource = self
         colleciotnViewLabel.delegate = self
         colleciotnViewLabel.reloadData()
-
+         print("test data")
     }
 }
 
